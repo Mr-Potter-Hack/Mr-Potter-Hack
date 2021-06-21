@@ -14,10 +14,14 @@ Ask me anything <a href = "https://anasportfolio3514.herokuapp.com/contact">here
 <h4 align="center"><a href="https://anasportfolio3514.herokuapp.com/">Wanna Look My Portfolio</a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Potter-Hack&show_icons=true&theme=dark))](https://github.com/anuraghazra/github-readme-stats)
+  </br
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Potter-Hack)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <img  src="https://readme-jokes.vercel.app/api?&theme=solidBlue" alt="Jokes Card" theme ="vue-dark"/>
 
 </br>
+
 <hr style="height:1px;border:none;color:#333;background-color:#00000;">
 </br>
 
