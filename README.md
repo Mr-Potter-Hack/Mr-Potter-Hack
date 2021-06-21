@@ -14,7 +14,7 @@ Ask me anything <a href = "https://anasportfolio3514.herokuapp.com/contact">here
 <h4 align="center"><a href="https://anasportfolio3514.herokuapp.com/">Wanna Look My Portfolio</a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr-Potter-Hack&show_icons=true&theme=dark))](https://github.com/anuraghazra/github-readme-stats)
-  </br
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Potter-Hack)](https://github.com/anuraghazra/github-readme-stats)
 
 
